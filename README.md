@@ -2,7 +2,7 @@ Hi there, I'm **Edward** 👋
 
 I'm a **Mobile Developer** 📱/ **Software Developer** 💻  who is passionate about mobile technologies and open source. I'm currently working on my own projects and learning new technologies.
 
-Languages 🌐
+## [Languages](#languages) 🌐
 
 - 🔤 Javascript
 - 🔠 Typescript
@@ -38,7 +38,3 @@ Databases 🌐
 Others 🔀
 
 - 📙 Firebase
-
-<br />
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsPriamo&show_icons=true&theme=radical)
