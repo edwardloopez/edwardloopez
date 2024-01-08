@@ -2,7 +2,7 @@ Hi there, I'm **Edward** 👋
 
 I'm a **Mobile Developer** 📱/ **Software Developer** 💻  who is passionate about mobile technologies and open source. I'm currently working on my own projects and learning new technologies.
 
-### [Languages](#languages) 🌐
+### <a style="color: #fff">Languages 🌐</a>
 
 - 🔤 Javascript
 - 🔠 Typescript
@@ -10,31 +10,32 @@ I'm a **Mobile Developer** 📱/ **Software Developer** 💻  who is passionate 
 - 📱 Dart
 - ♨️ Java
 
-Frontend 🖥️
+### <a style="color: #fff">Frontend 🖥️</a>
 
 - 📄 HTML/HTML5
 - ⚛️ React (Still learning)
 - 🎨 CSS/CSS3
 - 🅰️ Angular (Some versions)
 
-Mobile 📱
+
+### <a style="color: #fff">Mobile 📱</a>
 
 - ⚛️ React Native
 - 📱 Flutter (Dart) (Still learning)
 - 📲 iOS (Objective C, Swift) (Still learning)
 - 🤖 Android (Java, Kotlin)
 
-Backend 🗄️
+### <a style="color: #fff">Backend 🗄️</a>
 
 - 🟢 Node (express) (Still learning)
 - 🐘 PHP (Laravel)
 
-Databases 🌐
+### <a style="color: #fff">Databases 🌐</a>
 
 - 💾 SQL: MySQL / SQLite
 - 🔀 NoSQL: MongoDB
 - 🚀 Cache: Redis
 
-Others 🔀
+### <a style="color: #fff">Others 🔀</a>
 
 - 📙 Firebase
