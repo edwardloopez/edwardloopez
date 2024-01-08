@@ -2,7 +2,7 @@ Hi there, I'm **Edward** 👋
 
 I'm a **Mobile Developer** 📱/ **Software Developer** 💻  who is passionate about mobile technologies and open source. I'm currently working on my own projects and learning new technologies.
 
-### <a href="#Languages" style="color: #fff">Languages 🌐</a>
+### <a style="color: #fff">Languages 🌐</a>
 
 - 🔤 Javascript
 - 🔠 Typescript
